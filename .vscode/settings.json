@@ -1,7 +1,0 @@
-{
-    "terminal.integrated.cwd": "",
-    "chat.byokUtilityModelDefault": "mainAgent",
-    "code-runner.cwd": "\"c\\\\User\\\\hafiee\\\\myProject\",",
-    "code-runner.fileDirectoryAsCwd": true,
-    "terminal.integrated.splitCwd": "inherited"
-}
